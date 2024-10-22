@@ -362,7 +362,6 @@
 	}
 }
 
-/* =====  CLERK OVERRIDES */
 .cl-userButtonBox {
 	display: flex;
 	flex-flow: row-reverse;
