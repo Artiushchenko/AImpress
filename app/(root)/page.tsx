@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { Collection } from '@/components/shared/Collections'
+import { Collection } from '@/components/shared/Collection'
 
 import { navLinks } from '@/constants'
 import { getAllImages } from '@/lib/actions/image.actions'
